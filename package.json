@@ -1,0 +1,13 @@
+{
+  "name": "prepioneer-project",
+  "version": "1.0.0",
+  "description": "PrepPioneer - Interview Preparation Platform",
+  "main": "index.js",
+  "scripts": {
+    "start:server": "cd server && npm run dev",
+    "start:client": "cd client && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

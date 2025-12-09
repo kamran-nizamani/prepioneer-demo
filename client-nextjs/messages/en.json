@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "home": "Home",
+    "browseExams": "Browse Exams",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "hero": {
+    "title1": "Master Your",
+    "title2": "Future Today",
+    "subtitle": "AI-powered test preparation for all major Pakistani competitive exams. Personalized learning. Real results.",
+    "ctaBrowse": "Browse Exams",
+    "ctaLogin": "Login",
+    "statsExams": "Exam Types",
+    "statsQuestions": "Questions",
+    "statsPowered": "Powered"
+  },
+  "features": {
+    "title": "Why Choose PrepPioneer?",
+    "subtitle": "Everything you need to ace your competitive exams",
+    "aiTitle": "AI-Powered Learning",
+    "aiDesc": "Smart question generation tailored to your weaknesses",
+    "analyticsTitle": "Advanced Analytics",
+    "analyticsDesc": "Track your progress with detailed performance insights",
+    "plansTitle": "Personalized Plans",
+    "plansDesc": "Daily study recommendations based on your goals",
+    "examsTitle": "8 Major Exams",
+    "examsDesc": "CSS, MDCAT, ECAT, LAT, NAT, PMS, GAT, NTS-NAT"
+  },
+  "catalog": {
+    "title": "Browse Test Catalog",
+    "subtitle": "Choose from {count} Pakistani competitive exams. Start your personalized prep journey today.",
+    "loading": "Loading exams...",
+    "error": "Error Loading Exams",
+    "tryAgain": "Try Again",
+    "noExams": "No Exams Available",
+    "noExamsDesc": "Check back soon for new exam preparations!",
+    "startPrep": "Start Prep for {exam}",
+    "conductingBody": "Conducting Body",
+    "typeAdmission": "Admission",
+    "typeRecruitment": "Recruitment",
+    "ctaTitle": "Not sure which exam to take?",
+    "ctaDesc": "Our AI advisor can help you choose the right exam based on your goals and background.",
+    "ctaButton": "Get AI Guidance"
+  },
+  "cta": {
+    "title": "Ready to Start Your Journey?",
+    "subtitle": "Join thousands of students preparing smarter with AI-powered learning",
+    "button": "Get Started Free"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close"
+  }
+}
