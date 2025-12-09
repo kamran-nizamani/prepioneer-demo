@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Testing
+coverage/
+__tests__/
+*.test.js
+
+# Development files
+.env
+.env.local
+.env.development
+.env.test
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts (for server, these should be included)
+# Commented out as we need dist/ for production
+# dist/
+# build/
+
+# Logs
+logs/
+*.log
+
+# Database (development)
+dev.db
+dev.db-journal
+*.db
+*.db-journal
+
+# Prisma (generated)
+# Keep prisma/ directory but ignore generated files handled by install
